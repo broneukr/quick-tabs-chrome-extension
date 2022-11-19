@@ -1,0 +1,9 @@
+.idea/*
+*.ipr
+*.iws
+*.iml
+*.crx
+*.pem
+*.swp
+
+quick-tabs.zip
